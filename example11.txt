@@ -1,2 +1,0 @@
-this is confliting changes in master branch
-this is updated content via feature1 branch
